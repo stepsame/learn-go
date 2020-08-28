@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/stepsame/leanr-go/gomod/hello
 
 go 1.15
 
