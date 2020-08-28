@@ -1,4 +1,4 @@
-module github.com/stepsame/leanr-go/gomod/hello
+module github.com/stepsame/learn-go/gomod/hello
 
 go 1.15
 
